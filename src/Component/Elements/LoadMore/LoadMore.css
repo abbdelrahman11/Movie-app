@@ -1,0 +1,23 @@
+.loadMore {
+  position: absolute;
+  left: 50%;
+}
+
+.loadMore .btn {
+  border: none;
+  font-size: 18px;
+  background-color: transparent;
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 10px #111;
+  transition-duration: 0.3s;
+}
+.loadMore .btn:hover,
+.btn:focus,
+.btn:active {
+  box-shadow: 0 0 20px #111;
+  transform: scale(1.1);
+}

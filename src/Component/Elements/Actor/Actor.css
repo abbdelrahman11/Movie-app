@@ -1,0 +1,15 @@
+.actor {
+  float: left;
+  width: 15%;
+  margin-left: 19px;
+  text-align: center;
+  padding: 20px;
+}
+.actor-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.name {
+  display: block;
+}

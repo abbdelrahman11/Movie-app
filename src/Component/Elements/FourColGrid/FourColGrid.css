@@ -1,0 +1,12 @@
+.rmdb-grid {
+  text-align: center;
+}
+.grid-content {
+  margin: auto;
+  width: 98%;
+  overflow: hidden;
+  margin-left: 34px;
+}
+.grid-element {
+  position: relative;
+}

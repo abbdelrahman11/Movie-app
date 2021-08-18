@@ -1,0 +1,10 @@
+.moviethump {
+}
+.content-img {
+  float: left;
+  width: 21.333%;
+  margin-right: 1.5%;
+  margin-left: 1.5%;
+  margin-bottom: 50px;
+  border-radius: 4px;
+}

@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 80px;
+  background-color: #222;
+}
+.header-container {
+  margin: auto;
+  width: 90%;
+  float: left;
+}
+.header-container a {
+  float: left;
+  width: 50%;
+  margin-left: 13%;
+  text-decoration: none;
+}
+.header-container h2 {
+  font-size: 28px;
+  color: #fff;
+}
+.header-container .second-logo {
+  color: #fff;
+}
+.second-logo {
+  float: right;
+}

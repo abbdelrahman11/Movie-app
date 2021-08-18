@@ -1,0 +1,23 @@
+.heroimage {
+  height: 47vw;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-content {
+  color: #fff;
+}
+.home-content .home-text {
+  position: absolute;
+  left: 5%;
+  top: 40%;
+}
+
+.home-content .home-text h1 {
+  font-size: 50px;
+}
+.home-content .home-text p {
+  width: 50%;
+  font-size: 24px;
+  letter-spacing: 1px;
+  line-height: 40px;
+}

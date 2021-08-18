@@ -1,0 +1,29 @@
+.M-info-content {
+  overflow: hidden;
+  padding: 20px;
+  background-color: #111;
+  color: #fff;
+}
+.M-info-thump {
+  float: left;
+  width: 42%;
+}
+.M-info-text {
+  float: left;
+  width: 50%;
+  line-height: 2rem;
+}
+.span-info {
+  font-size: 30px;
+  color: #555;
+  font-weight: bold;
+  margin-right: 17px;
+}
+.parag-info {
+  letter-spacing: 1px;
+  font-size: 20px;
+  line-height: 36px;
+}
+meter {
+  width: 300px;
+}

@@ -1,0 +1,13 @@
+.MovieInfoBar {
+  background-color: #222;
+  color: #fff;
+}
+.bar-content {
+  padding: 25px;
+}
+.bar-content .icon {
+  margin: 0 5rem;
+}
+.the-icon {
+  margin: 0 20px;
+}
